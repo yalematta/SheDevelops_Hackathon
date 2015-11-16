@@ -3,5 +3,5 @@
 </p>
 
 - I thought of researching some tips on how to organize my team for the upcoming Hackathon. 
-- I found these tips by [Andrew Van Tassel](http://www.andrewvantassel.com/), who participated in many hackathons and won prizes in many of them.
-- I forked these beautiful slides made with [reveal.js](https://github.com/hakimel/reveal.js) which also have a [speaker view](https://github.com/hakimel/reveal.js#speaker-notes) to help you present your hack.
+- I found these tips by [Andrew Van Tassel](http://www.andrewvantassel.com/), who participated and won prizes in many hackathons.
+- I forked these slides made with [reveal.js](https://github.com/hakimel/reveal.js) which also have a [speaker view](https://github.com/hakimel/reveal.js#speaker-notes) to help you present your hack.
